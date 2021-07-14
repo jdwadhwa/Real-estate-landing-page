@@ -17,7 +17,7 @@ return (
             <a href="#">Home</a>
           </li>
           <li>
-            <a href="#whyus" >Why us</a>
+            <a href="#WHYUS" >Why us</a>
           </li>
           <li>
             <a href="#feat">Features</a>

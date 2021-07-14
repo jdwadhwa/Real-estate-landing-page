@@ -383,6 +383,7 @@ font-family: 'Poppins', sans-serif;}
   text-align: center;
   margin:0px;
   padding: 0px;
+      
 }
 
 
@@ -409,4 +410,58 @@ font-family: 'Poppins', sans-serif;}
 .contact h2{
   padding-bottom: 70px;
   text-align: center;
+}
+
+
+.whyus .row{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+
+}
+
+.whyus .row .h4{
+  text-align: center;
+}
+
+.whyus .row ul{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 25px;
+  box-shadow: 0 0 5px black;
+      padding: 3px;
+}
+
+
+
+
+.whyus{
+  background: linear-gradient(to right, #acb6e5, #86fde8);
+margin-top: -30px;
+}
+
+.whyus .row ul li{
+  padding-bottom: 15px;
+  padding-left: 8px;
+  padding-right: 8px;
+    font-family: 'Merriweather', serif;
+  
+}
+
+.whyus .row ul li:first-child{
+  padding-top: 20px;
+}
+
+
+.whyus h2{
+  text-align: center;
+    font-family: 'Merriweather', serif;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.whyus .row ul:hover{
+  box-shadow: 0 0 5px#00022e, 0 0 5px #29304e, 0 0 10px #020035;
 }

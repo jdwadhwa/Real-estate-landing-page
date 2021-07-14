@@ -14,7 +14,7 @@ class Testimonials extends react.Component
     render()
     {
         return (
-          <div id="whyus">
+          <div >
             <div className="testimonials">
               <h2>testimonials</h2>
             </div>

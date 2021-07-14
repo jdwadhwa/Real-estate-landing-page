@@ -12,13 +12,15 @@ import Testimonials from "./testimonials";
 
 import Contact from "./contactus";
 
+import Whyus from "./whyus";
+
 function App()
 {
     return(
         <div className = "rs_container">
             <Header/>
             <Banner/>
-          
+            <Whyus/>  
             <Features/>
             <Testimonials/>
             <Contact/>
